@@ -1,5 +1,5 @@
 ## Magician Ground 
-MG fue un proyecto innovador creado por los egresados de 2026 de ProA La Falda, cuyo principal enfoque estuvo orientado al sector agrícola. El proyecto surgió con la idea de aplicar la tecnología para abordar problemáticas reales de la agricultura y explorar nuevas formas de mejorar procesos relacionados con el monitoreo y el análisis de información.
+MG fue un proyecto innovador creado por los egresados de 2025 de ProA La Falda, cuyo principal enfoque estuvo orientado al sector agrícola. El proyecto surgió con la idea de aplicar la tecnología para abordar problemáticas reales de la agricultura y explorar nuevas formas de mejorar procesos relacionados con el monitoreo y el análisis de información.
 
 
 Durante su desarrollo, trabajamos en distintas ideas y tecnologías, enfrentándonos a los desafíos de transformar una idea inicial en una posible solución tecnológica. El proyecto nos permitió adquirir experiencia en programación, investigación, resolución de problemas y trabajo en equipo, además de acercarnos a un área diferente a la informática tradicional.
